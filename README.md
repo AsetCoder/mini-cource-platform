@@ -2,7 +2,7 @@ This a Simple Mini Cource Platform 💡
 In This Project Have Some Interesting Things⚙️
 Have Simple User 👨
 Have a Admin 👨‍💻
-Have Courses with vide and can create only Admin📖
+Have Courses with video and can create only Admin📖
 Have Categories includes Courses📂
 Have Leanguages includes Courses📂
 And Have Mini Simple Payment 💳
